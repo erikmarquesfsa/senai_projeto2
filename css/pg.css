@@ -239,3 +239,19 @@ nav{
 .searchdomain-container input[type="submit"]:hover{
     opacity: 1;
 }
+
+/*Contact Form */
+.contact-container{
+    text-align: center;
+    padding: 5rem 0 2rem 0;
+}
+
+.contact-container h2{
+    font-size: 36px;
+    margin-bottom: 15px;
+}
+
+.contact-container p{
+    font-size: 20px;
+    margin-bottom: 40px;
+}
